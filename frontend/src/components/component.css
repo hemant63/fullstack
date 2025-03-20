@@ -1,0 +1,11 @@
+/* ProductCard */
+.product-card image{
+    height: 254px;
+    width: 254px;
+    margin: 0.5rem;
+}
+
+.product-card{
+    width: 270px;
+    height: 348px;
+}
